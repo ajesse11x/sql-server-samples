@@ -11,7 +11,7 @@
     "email": "jovanpop@microsoft.com"
   },
   "dependencies": {
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.19.0",
     "config": "^1.26.1",
     "debug": "^2.2.0",
     "express": "^4.14.0",
